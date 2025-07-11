@@ -1,0 +1,5 @@
+age,workclass,education,income
+25,Private,Bachelors,<=50K
+38,Self-emp,HS-grad,>50K
+28,Private,Masters,<=50K
+44,Government,Doctorate,>50K
